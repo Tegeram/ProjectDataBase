@@ -1,0 +1,15 @@
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\bin\Debug\ProjectDataBase.exe.config
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\bin\Debug\ProjectDataBase.exe
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\bin\Debug\ProjectDataBase.pdb
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.csprojAssemblyReference.cache
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.Form1.resources
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.Properties.Resources.resources
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.csproj.GenerateResource.cache
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.csproj.CoreCompileInputs.cache
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.exe
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.pdb
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.Form2.resources
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.Form3.resources
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.Form4.resources
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.Form5.resources
+D:\ProjectsVS\ProjectDataBase\ProjectDataBase\obj\Debug\ProjectDataBase.Form6.resources
